@@ -170,22 +170,3 @@ h2 {
   display: flex;
   justify-content: center;
 }
-
-/* For margin practice */
-.flag1 {
-  background-color: red;
-  margin-right: 10px;
-}
-
-.flag2 {
-  background-color: blue;
-  margin-right: 10px;
-}
-
-/* For padding practice */
-.padding-container {
-  box-sizing: border-box;
-  background-color: lightblue;
-  background-clip: content-box, padding-box;
-  padding: 60px;
-}
